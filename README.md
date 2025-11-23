@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Computer science student at Linköping universiy 🧑‍🎓
+#### Computer Science student at Linköping university 🧑‍🎓
 
 - 🔨 Building to learn with Rust, C, and Python
 - 📚 Learning embedded systems, web development, and databases
